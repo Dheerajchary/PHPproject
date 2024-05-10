@@ -1,0 +1,16 @@
+body{
+  background: #f7f7f7;
+  background-size:cover;
+}
+h1,p{
+  color:black;
+}
+nav{background-color:#5E1675;}
+.carousel-control-next,.carousel-control-prev {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+
+
+
